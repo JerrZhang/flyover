@@ -1,6 +1,6 @@
 {
   "name": "flyover",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "flyover.js",
   "scripts": {
@@ -9,9 +9,12 @@
   "bin": {
     "flyover": "./flyover.js"
   },
-  "keywords": ["base puppetter","like simple fiddler"],
+  "keywords": [
+    "base puppetter",
+    "like simple fiddler"
+  ],
   "repository": {
-    "type":"git",
+    "type": "git",
     "url": "https://github.com/JerrZhang/flyover.git"
   },
   "author": "jerremyzhang",

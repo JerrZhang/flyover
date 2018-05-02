@@ -1,0 +1,24 @@
+{
+  "name": "flyover",
+  "version": "1.1.1",
+  "description": "",
+  "main": "flyover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "flyover": "./flyover.js"
+  },
+  "keywords": ["base puppetter","like simple fiddler"],
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/JerrZhang/flyover.git"
+  },
+  "author": "jerremyzhang",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "jsonfile": "^4.0.0",
+    "puppeteer": "^1.3.0"
+  }
+}

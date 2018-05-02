@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/JerrZhang/flyover.git"
   },
+  "engines": {
+    "node":"8.x"
+  },
   "author": "jerremyzhang",
   "license": "MIT",
   "dependencies": {
